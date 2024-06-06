@@ -78,9 +78,10 @@ US7: Crear página para insertar nuevos productos.
 Versión 1.9.0 - Visualización de Órdenes Completadas para Usuarios (03/06/2024)
 US8: Crear página con las órdenes completadas.
 
-Versión 2.0.0 - Lanzamiento Completo (03/06/2024)
+Versión 2.0.0 - Lanzamiento Completo (05/06/2024)
 Documentación Completa: Actualización completa de la documentación del proyecto.
 Corrección de Errores: Corrección de errores y ajustes finales.
 Optimización Final: Optimización general del rendimiento y la experiencia de usuario.
+
 
 \*/
